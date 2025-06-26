@@ -11,6 +11,9 @@ df = pd.DataFrame(data)
 new_row = {'name': 'Hassan', 'age': 25, 'city': 'Tehran'}
 df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
 
+new_row = {"name": "Usman", "age": 5, "city": "burewala"}
+df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+
 print(df)
 
 
