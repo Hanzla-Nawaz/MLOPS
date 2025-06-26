@@ -1,6 +1,13 @@
 # initiate a class
 
 class Employee:
+    # getters and setters
+    def get_id(self):
+        return self.id
+    def set_id(self, id):
+        self.id = id
+
+
     def __init__(self): # costructor 
         # attributes are variables that belong to the class
         print("Constructor is called")
@@ -15,13 +22,50 @@ class Employee:
         print("Method is called manually")
         print(f"Employee is travelling to {destination}")
 
+    # static method
+    @staticmethod
+    def static_method():
+        print("Static method is called")
+    
+    # class method
+    @classmethod
+    def class_method(cls):
+        print("Class method is called") 
+
+
 # create an object of the class
 em1 = Employee() # object of the class
-# accessing the attributes of the class 
-print(em1.id) # accessing the id attribute
 
 print(em1.travel("India")) # calling the method of the class
+# accessing the attributes of the class 
 
+
+
+print(em1.id) # accessing the id attribute
+print(em1.get_id()) # accessing the id attribute using the getter
+
+
+em1.set_id(102) # setting the id attribute using the setter
+print(em1.id) # accessing the id attribute
+print(em1.get_id()) # accessing the id attribute using the getter
+
+#static method calling
+Employee.static_method()
+em1.static_method()
+
+#encapsulation example
+class BankAccount:
+    def __init__(self, balance):
+        self.__balance = balance
+    def get_balance(self):
+        return self.__balance
+    def set_balance(self, balance):
+        self.__balance = balance
+
+account = BankAccount(1000)
+print(account.get_balance())
+account.set_balance(2000)
+print(account.get_balance())
 
 
 
@@ -102,3 +146,24 @@ class MyDict(dict):
         print(a + b)  # it will return {'a': 1, 'b: 5, 'c': 4}  
 # this is how we can contribute to open source projects using OOP in python.
 """
+
+
+# function vs method:
+"""A function is a block of code that performs a specific task. It can be called from anywhere in
+the program. A method is a function that belongs to a class. It can only be calledusing an object of the class.
+A function is defined using the def keyword, while a method is defined inside a class. A function can       
+take any number of arguments, while a method can take only one argument, which is self. A function can return any value, while a method can return only one value, which is the object itself.  
+A function can be called without creating an object of the class, while a method can only be called using an object of the class. A function can be defined outside a class, while a method can only be defined inside a class. A function can be used to perform any task, while a method is used to define the behavior of an object.
+""" 
+# what are magic methods?
+"""Magic methods are special methods that are defined in a class. They are used to define the behavior of an object. They are also known as dunder methods, because they are defined using double underscores before and after the method name. For example, __init__ is a magic method that
+is used to initialize the attributes of a class. Other examples of magic methods are __str__, __repr__, __add__, __sub__, __mul__, __truediv__, __floordiv__, __mod__, __pow__, __lt__, __le__, __eq__, __ne__, __gt__, and __ge__.
+Magic methods are used to define the behavior of an object when it is used with operators, such as +, -, *, /, //, %, **, <, <=, ==, !=, >, and >=. For example, if we want to define the behavior of an object when it is used with the + operator, we can define the __add__ magic method in the class. 
+When we use the + operator with an object of that class, the __add__ method is called automatically.    
+Magic methods are used to define the behavior of an object when it is used with built-in functions, such as len(), str(), repr(), and type(). For example, if we want to define the behavior of an object when it is used with the len() function, we can define the __len__ magic method in the class. When we use the len() function with an object of that class, the __len__ method is called automatically.
+"""
+
+# what is inheritance?
+"""Inheritance is a mechanism that allows a class to inherit the attributes and methods of another class. The class that inherits the attributes and methods is called the child class, and the class that is inherited from is called the parent class. The child class can access the attributes and methods of the parent class.
+Inheritance is used to create a new class that is a modified version of an existing class. For example, if we want to create a new class that is a modified version of the Employee class, we can create a new class called Manager that inherits the attributes and methods of the Employee class. The Manager class can have additional attributes and methods that are specific to the Manager class.
+    """

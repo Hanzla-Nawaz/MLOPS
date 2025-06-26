@@ -20,9 +20,6 @@ class chatbook():
             print("Exiting ChatBook. Goodbye!")
             exit()
 
-
-
-
     def create_account(self):
         self.username = input("Enter your username:")
         self.password = input("Enter your password:")
@@ -32,12 +29,18 @@ class chatbook():
 
 
     def login(self):
-        username = input("Enter your username:")
-        password = input("Enter your password:")
-        if username == self.username and password == self.password:
-            print(f"Welcome back, {self.username}!")
-        else:print("Invalid username or password. Please try again. ")
-        self.menu()
+        if self.username == "" or self.password == "":
+            print("No account found. Please create an account first.")
+        else:          
+            username = input("Enter your username:")
+            password = input("Enter your password:")
+            if username == self.username and password == self.password:
+                print(f"Welcome back, {self.username}!")
+            else:
+                print("Invalid username or password. Please try again. ")
+            self.menu()
+
+    
 
 
 
