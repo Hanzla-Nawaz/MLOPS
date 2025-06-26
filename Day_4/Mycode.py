@@ -7,11 +7,14 @@ data = {"name": ["Ali", "Reza", "Sina", "Sara", "Zahra"],
 
 df = pd.DataFrame(data)
 
+# Add a new row using pd.concat (modern approach)
+new_row = {'name': 'Hassan', 'age': 25, 'city': 'Tehran'}
+df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+
 print(df)
 
 
-data_dir = 'Day_4'
-os.makedirs(data_dir, exist_ok=True)
+data_dir = 'data'
 
 file_path = os.path.join(data_dir, 'data.csv')
 
