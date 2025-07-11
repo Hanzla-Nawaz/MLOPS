@@ -1,0 +1,4 @@
+Machine learing Pipeline
+Data ingestion > Pre-processing > Feature engg > Model Training > Model Evaluation
+
+individuals called components
