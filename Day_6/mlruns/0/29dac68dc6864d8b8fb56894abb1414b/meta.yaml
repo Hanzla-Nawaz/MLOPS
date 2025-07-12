@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/29dac68dc6864d8b8fb56894abb1414b/artifacts
+end_time: 1752316242399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29dac68dc6864d8b8fb56894abb1414b
+run_name: stately-mule-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316227323
+status: 3
+tags: []
+user_id: hanzl

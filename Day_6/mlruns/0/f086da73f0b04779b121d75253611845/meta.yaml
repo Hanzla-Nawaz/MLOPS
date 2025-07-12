@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/f086da73f0b04779b121d75253611845/artifacts
+end_time: 1752315495193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f086da73f0b04779b121d75253611845
+run_name: capricious-fowl-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315483994
+status: 3
+tags: []
+user_id: hanzl

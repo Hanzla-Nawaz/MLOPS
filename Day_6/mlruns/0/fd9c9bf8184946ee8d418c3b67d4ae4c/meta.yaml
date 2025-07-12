@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/fd9c9bf8184946ee8d418c3b67d4ae4c/artifacts
+end_time: 1752315657183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd9c9bf8184946ee8d418c3b67d4ae4c
+run_name: valuable-goat-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315646382
+status: 3
+tags: []
+user_id: hanzl

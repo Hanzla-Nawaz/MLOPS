@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/be805601d7b44163a0ec97a2098b4350/artifacts
+end_time: 1752316371744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be805601d7b44163a0ec97a2098b4350
+run_name: powerful-bear-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316356459
+status: 3
+tags: []
+user_id: hanzl

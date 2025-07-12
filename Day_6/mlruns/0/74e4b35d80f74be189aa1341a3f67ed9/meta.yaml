@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/74e4b35d80f74be189aa1341a3f67ed9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74e4b35d80f74be189aa1341a3f67ed9
+run_name: tasteful-squid-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316276284
+status: 1
+tags: []
+user_id: hanzl

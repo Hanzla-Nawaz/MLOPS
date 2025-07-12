@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/dc2572f83a10497aac8a0b2086a577cc/artifacts
+end_time: 1752315538779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc2572f83a10497aac8a0b2086a577cc
+run_name: amusing-fowl-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315528045
+status: 3
+tags: []
+user_id: hanzl

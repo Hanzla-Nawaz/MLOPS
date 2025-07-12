@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/3d462ef0d01f4058bf38a3eff1e09a1f/artifacts
+end_time: 1752316418421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d462ef0d01f4058bf38a3eff1e09a1f
+run_name: selective-shrike-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316406308
+status: 3
+tags: []
+user_id: hanzl

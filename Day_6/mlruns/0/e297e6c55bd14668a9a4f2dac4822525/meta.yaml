@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/e297e6c55bd14668a9a4f2dac4822525/artifacts
+end_time: 1752315632809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e297e6c55bd14668a9a4f2dac4822525
+run_name: glamorous-mole-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315619501
+status: 3
+tags: []
+user_id: hanzl

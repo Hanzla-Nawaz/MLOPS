@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/fd42f2d4585540eaa33283b5cecce467/artifacts
+end_time: 1752316107721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd42f2d4585540eaa33283b5cecce467
+run_name: sassy-panda-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316098691
+status: 3
+tags: []
+user_id: hanzl

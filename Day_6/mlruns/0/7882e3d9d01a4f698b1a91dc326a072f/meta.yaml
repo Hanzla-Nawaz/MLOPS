@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/7882e3d9d01a4f698b1a91dc326a072f/artifacts
+end_time: 1752315188214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7882e3d9d01a4f698b1a91dc326a072f
+run_name: legendary-ox-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315168643
+status: 3
+tags: []
+user_id: hanzl

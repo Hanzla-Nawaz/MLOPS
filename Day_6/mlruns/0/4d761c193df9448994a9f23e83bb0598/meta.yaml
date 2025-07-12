@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/4d761c193df9448994a9f23e83bb0598/artifacts
+end_time: 1752315204283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d761c193df9448994a9f23e83bb0598
+run_name: powerful-calf-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315188234
+status: 3
+tags: []
+user_id: hanzl

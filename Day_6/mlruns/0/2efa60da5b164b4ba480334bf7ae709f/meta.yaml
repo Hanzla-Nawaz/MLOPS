@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/2efa60da5b164b4ba480334bf7ae709f/artifacts
+end_time: 1752316343595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2efa60da5b164b4ba480334bf7ae709f
+run_name: bright-dolphin-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316332124
+status: 3
+tags: []
+user_id: hanzl

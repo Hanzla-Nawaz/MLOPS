@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/4f44b46a862045d388367d05505c8a28/artifacts
+end_time: 1752315441159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f44b46a862045d388367d05505c8a28
+run_name: worried-fox-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315429542
+status: 3
+tags: []
+user_id: hanzl

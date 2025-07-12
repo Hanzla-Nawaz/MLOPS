@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/98982e32b94540cfaf6671507b753a6d/artifacts
+end_time: 1752315755081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98982e32b94540cfaf6671507b753a6d
+run_name: bold-goose-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315744215
+status: 3
+tags: []
+user_id: hanzl

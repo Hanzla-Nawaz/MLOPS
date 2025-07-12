@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/d60ead270cb6400aa3e716f9a3f141ee/artifacts
+end_time: 1752315619482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d60ead270cb6400aa3e716f9a3f141ee
+run_name: angry-sheep-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315607563
+status: 3
+tags: []
+user_id: hanzl

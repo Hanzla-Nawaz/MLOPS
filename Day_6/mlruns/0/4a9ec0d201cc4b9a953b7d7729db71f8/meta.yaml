@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/4a9ec0d201cc4b9a953b7d7729db71f8/artifacts
+end_time: 1752315275906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a9ec0d201cc4b9a953b7d7729db71f8
+run_name: nimble-sheep-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315266850
+status: 3
+tags: []
+user_id: hanzl

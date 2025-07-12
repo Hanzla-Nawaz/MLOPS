@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/01b89e33d07c4f9eb779ec8c1727d70b/artifacts
+end_time: 1752315285778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01b89e33d07c4f9eb779ec8c1727d70b
+run_name: lyrical-sow-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315275921
+status: 3
+tags: []
+user_id: hanzl

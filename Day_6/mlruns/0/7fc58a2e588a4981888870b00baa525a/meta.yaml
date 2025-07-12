@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/7fc58a2e588a4981888870b00baa525a/artifacts
+end_time: 1752315386486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fc58a2e588a4981888870b00baa525a
+run_name: puzzled-crow-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315375266
+status: 3
+tags: []
+user_id: hanzl

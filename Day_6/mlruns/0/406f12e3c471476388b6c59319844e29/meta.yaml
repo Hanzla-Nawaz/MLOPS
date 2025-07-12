@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/406f12e3c471476388b6c59319844e29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 406f12e3c471476388b6c59319844e29
+run_name: spiffy-hare-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315300694
+status: 1
+tags: []
+user_id: hanzl

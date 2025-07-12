@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/0d60c0a3676b41a38e835a05725d183e/artifacts
+end_time: 1752315396863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d60c0a3676b41a38e835a05725d183e
+run_name: powerful-wren-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315386503
+status: 3
+tags: []
+user_id: hanzl

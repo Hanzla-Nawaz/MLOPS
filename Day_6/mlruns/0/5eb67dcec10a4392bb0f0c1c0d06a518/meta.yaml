@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/5eb67dcec10a4392bb0f0c1c0d06a518/artifacts
+end_time: 1752315679580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eb67dcec10a4392bb0f0c1c0d06a518
+run_name: popular-fish-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315668559
+status: 3
+tags: []
+user_id: hanzl

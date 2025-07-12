@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/1fab007ddeeb4aaa87c8333e03fafce9/artifacts
+end_time: 1752316166555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fab007ddeeb4aaa87c8333e03fafce9
+run_name: unique-turtle-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316142563
+status: 3
+tags: []
+user_id: hanzl

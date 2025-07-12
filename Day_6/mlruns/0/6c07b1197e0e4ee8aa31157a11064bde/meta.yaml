@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/6c07b1197e0e4ee8aa31157a11064bde/artifacts
+end_time: 1752315595614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c07b1197e0e4ee8aa31157a11064bde
+run_name: angry-roo-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315585000
+status: 3
+tags: []
+user_id: hanzl

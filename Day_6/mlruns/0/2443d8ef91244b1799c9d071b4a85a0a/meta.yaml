@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/2443d8ef91244b1799c9d071b4a85a0a/artifacts
+end_time: 1752316356437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2443d8ef91244b1799c9d071b4a85a0a
+run_name: enthused-squid-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316343612
+status: 3
+tags: []
+user_id: hanzl

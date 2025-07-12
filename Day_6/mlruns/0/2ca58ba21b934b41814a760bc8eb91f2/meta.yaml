@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/2ca58ba21b934b41814a760bc8eb91f2/artifacts
+end_time: 1752316383289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ca58ba21b934b41814a760bc8eb91f2
+run_name: angry-fowl-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316371759
+status: 3
+tags: []
+user_id: hanzl

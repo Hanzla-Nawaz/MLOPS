@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/949adbea41a640ec96a9c450d08aec22/artifacts
+end_time: 1752315472859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 949adbea41a640ec96a9c450d08aec22
+run_name: indecisive-smelt-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315461942
+status: 3
+tags: []
+user_id: hanzl

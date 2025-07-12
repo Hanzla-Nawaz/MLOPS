@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/b7dc53e430a6427f86cb820b622f40d2/artifacts
+end_time: 1752315668534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7dc53e430a6427f86cb820b622f40d2
+run_name: fortunate-sheep-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315657199
+status: 3
+tags: []
+user_id: hanzl

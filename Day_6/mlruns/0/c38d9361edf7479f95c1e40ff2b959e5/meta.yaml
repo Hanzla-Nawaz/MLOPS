@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/c38d9361edf7479f95c1e40ff2b959e5/artifacts
+end_time: 1752315516691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c38d9361edf7479f95c1e40ff2b959e5
+run_name: learned-perch-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315506856
+status: 3
+tags: []
+user_id: hanzl

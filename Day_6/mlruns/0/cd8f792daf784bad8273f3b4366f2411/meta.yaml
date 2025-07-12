@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/cd8f792daf784bad8273f3b4366f2411/artifacts
+end_time: 1752315256496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd8f792daf784bad8273f3b4366f2411
+run_name: delightful-asp-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315247395
+status: 3
+tags: []
+user_id: hanzl

@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/c614844d33f84bb1a195dd77af1fbd45/artifacts
+end_time: 1752316129517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c614844d33f84bb1a195dd77af1fbd45
+run_name: unequaled-moth-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316118737
+status: 3
+tags: []
+user_id: hanzl

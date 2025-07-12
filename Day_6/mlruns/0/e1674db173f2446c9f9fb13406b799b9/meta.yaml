@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/e1674db173f2446c9f9fb13406b799b9/artifacts
+end_time: 1752316073217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1674db173f2446c9f9fb13406b799b9
+run_name: wise-stag-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316060396
+status: 3
+tags: []
+user_id: hanzl

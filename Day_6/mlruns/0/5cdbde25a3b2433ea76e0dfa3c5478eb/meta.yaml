@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/5cdbde25a3b2433ea76e0dfa3c5478eb/artifacts
+end_time: 1752315345144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cdbde25a3b2433ea76e0dfa3c5478eb
+run_name: rogue-smelt-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315336727
+status: 3
+tags: []
+user_id: hanzl

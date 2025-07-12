@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/a99d6afa50634a99a5954c05627ff7fd/artifacts
+end_time: 1752316060381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99d6afa50634a99a5954c05627ff7fd
+run_name: carefree-wolf-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316045451
+status: 3
+tags: []
+user_id: hanzl

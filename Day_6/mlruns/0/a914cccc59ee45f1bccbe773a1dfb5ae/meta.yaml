@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/a914cccc59ee45f1bccbe773a1dfb5ae/artifacts
+end_time: 1752315247370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a914cccc59ee45f1bccbe773a1dfb5ae
+run_name: youthful-yak-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315235838
+status: 3
+tags: []
+user_id: hanzl

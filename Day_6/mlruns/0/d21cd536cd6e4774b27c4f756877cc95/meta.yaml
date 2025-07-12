@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/d21cd536cd6e4774b27c4f756877cc95/artifacts
+end_time: 1752315429526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d21cd536cd6e4774b27c4f756877cc95
+run_name: nervous-donkey-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315418283
+status: 3
+tags: []
+user_id: hanzl

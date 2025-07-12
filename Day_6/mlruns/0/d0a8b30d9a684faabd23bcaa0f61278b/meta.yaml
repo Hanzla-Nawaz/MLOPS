@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/d0a8b30d9a684faabd23bcaa0f61278b/artifacts
+end_time: 1752315150813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0a8b30d9a684faabd23bcaa0f61278b
+run_name: handsome-fowl-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315128746
+status: 3
+tags: []
+user_id: hanzl

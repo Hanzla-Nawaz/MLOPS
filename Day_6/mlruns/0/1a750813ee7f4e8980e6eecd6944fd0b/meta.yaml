@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/1a750813ee7f4e8980e6eecd6944fd0b/artifacts
+end_time: 1752315451226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a750813ee7f4e8980e6eecd6944fd0b
+run_name: adorable-toad-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315441179
+status: 3
+tags: []
+user_id: hanzl

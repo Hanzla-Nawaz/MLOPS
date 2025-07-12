@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/3285d571c1d04681b94113dcf0ef0322/artifacts
+end_time: 1752316321311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3285d571c1d04681b94113dcf0ef0322
+run_name: painted-mole-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316301460
+status: 3
+tags: []
+user_id: hanzl

@@ -1,0 +1,23 @@
+Experiments overview 
+DVC vs MLFLOW
+MLFLOW for datascience 
+Mlflow server architecture (AWS vs DAshhub)
+Model REgistry
+
+Lets talk about experiments 
+in model training we need to do experiments to get high accuracy
+lets suppose we use different techniques to do data cleaning method 1 give high accuracy not second one
+same in hyper parameter tuning , feature engineering after performing all techniques we train model and track which one was the good one to deploy
+
+Question DVC provide why Mlflow
+it is good for data versioning 
+mlflow is mature that dvc for tracking 
+dvc is good for data versioning and mlflow is good for tracking experiments
+DVC ui is not good for tracking experiments
+
+mlflow have great ui for tracking experiments
+good for model registry 
+
+
+
+

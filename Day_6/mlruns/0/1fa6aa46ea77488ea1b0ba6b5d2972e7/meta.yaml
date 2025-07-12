@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/1fa6aa46ea77488ea1b0ba6b5d2972e7/artifacts
+end_time: 1752316276262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fa6aa46ea77488ea1b0ba6b5d2972e7
+run_name: rumbling-robin-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316268528
+status: 3
+tags: []
+user_id: hanzl

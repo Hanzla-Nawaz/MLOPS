@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/93bb17a6107043f28d1297806c8a80a0/artifacts
+end_time: 1752316088266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93bb17a6107043f28d1297806c8a80a0
+run_name: suave-stork-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316073239
+status: 3
+tags: []
+user_id: hanzl

@@ -1,0 +1,10 @@
+artifact_location: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/models/m-4fcb523b524f48eb837c3b125c0b853c/artifacts
+creation_timestamp: 1752315608376
+experiment_id: '0'
+last_updated_timestamp: 1752315619462
+model_id: m-4fcb523b524f48eb837c3b125c0b853c
+model_type: null
+name: model
+source_run_id: d60ead270cb6400aa3e716f9a3f141ee
+status: 2
+status_message: null

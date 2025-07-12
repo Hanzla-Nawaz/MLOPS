@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/0f18aa5089694f85ad95c9028738a522/artifacts
+end_time: 1752316210654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f18aa5089694f85ad95c9028738a522
+run_name: bittersweet-rook-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316196431
+status: 3
+tags: []
+user_id: hanzl

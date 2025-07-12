@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/e6c6cb46ee414bc9a1caba2a38aa7a6f/artifacts
+end_time: 1752316467309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6c6cb46ee414bc9a1caba2a38aa7a6f
+run_name: secretive-moose-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316454889
+status: 3
+tags: []
+user_id: hanzl

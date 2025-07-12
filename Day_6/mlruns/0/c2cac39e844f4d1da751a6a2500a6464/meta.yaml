@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/c2cac39e844f4d1da751a6a2500a6464/artifacts
+end_time: 1752316443429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2cac39e844f4d1da751a6a2500a6464
+run_name: invincible-foal-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316432227
+status: 3
+tags: []
+user_id: hanzl

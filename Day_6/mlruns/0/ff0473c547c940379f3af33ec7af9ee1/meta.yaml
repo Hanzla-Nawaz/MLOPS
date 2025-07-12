@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/ff0473c547c940379f3af33ec7af9ee1/artifacts
+end_time: 1752315168618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0473c547c940379f3af33ec7af9ee1
+run_name: puzzled-gnu-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315150833
+status: 3
+tags: []
+user_id: hanzl

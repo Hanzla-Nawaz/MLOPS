@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/a039eae31ba744fca2f350e833abac11/artifacts
+end_time: 1752316332108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a039eae31ba744fca2f350e833abac11
+run_name: masked-pug-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316321327
+status: 3
+tags: []
+user_id: hanzl

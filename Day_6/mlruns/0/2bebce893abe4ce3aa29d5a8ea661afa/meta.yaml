@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/2bebce893abe4ce3aa29d5a8ea661afa/artifacts
+end_time: 1752315744205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bebce893abe4ce3aa29d5a8ea661afa
+run_name: shivering-robin-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315733442
+status: 3
+tags: []
+user_id: hanzl

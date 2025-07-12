@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/e996dd7ed4ef4891bb2068be3d9d01d8/artifacts
+end_time: 1752316254884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e996dd7ed4ef4891bb2068be3d9d01d8
+run_name: smiling-seal-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316242414
+status: 3
+tags: []
+user_id: hanzl

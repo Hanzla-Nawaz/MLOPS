@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/e503808ede8b4de0922ae1306cf4da81/artifacts
+end_time: 1752315326729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e503808ede8b4de0922ae1306cf4da81
+run_name: flawless-mole-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315310453
+status: 3
+tags: []
+user_id: hanzl

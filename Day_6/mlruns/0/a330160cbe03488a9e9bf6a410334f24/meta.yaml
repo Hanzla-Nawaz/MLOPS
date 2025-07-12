@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/a330160cbe03488a9e9bf6a410334f24/artifacts
+end_time: 1752315528036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a330160cbe03488a9e9bf6a410334f24
+run_name: sincere-quail-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315516705
+status: 3
+tags: []
+user_id: hanzl

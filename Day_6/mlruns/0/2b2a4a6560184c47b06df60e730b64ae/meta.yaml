@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/2b2a4a6560184c47b06df60e730b64ae/artifacts
+end_time: 1752316480014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b2a4a6560184c47b06df60e730b64ae
+run_name: righteous-croc-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316467318
+status: 3
+tags: []
+user_id: hanzl

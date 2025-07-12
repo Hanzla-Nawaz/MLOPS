@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/d7eaee9ac29345709c531ea0f33afb8a/artifacts
+end_time: 1752315407559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7eaee9ac29345709c531ea0f33afb8a
+run_name: upset-loon-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315396884
+status: 3
+tags: []
+user_id: hanzl

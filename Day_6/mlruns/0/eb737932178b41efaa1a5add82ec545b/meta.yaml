@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/eb737932178b41efaa1a5add82ec545b/artifacts
+end_time: 1752316196415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb737932178b41efaa1a5add82ec545b
+run_name: unequaled-shrew-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316183032
+status: 3
+tags: []
+user_id: hanzl

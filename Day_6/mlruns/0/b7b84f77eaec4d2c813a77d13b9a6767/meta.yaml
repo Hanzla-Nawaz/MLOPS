@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/b7b84f77eaec4d2c813a77d13b9a6767/artifacts
+end_time: 1752315506843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7b84f77eaec4d2c813a77d13b9a6767
+run_name: defiant-yak-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315495207
+status: 3
+tags: []
+user_id: hanzl

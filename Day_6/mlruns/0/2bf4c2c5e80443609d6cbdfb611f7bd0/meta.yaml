@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/2bf4c2c5e80443609d6cbdfb611f7bd0/artifacts
+end_time: 1752315354349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf4c2c5e80443609d6cbdfb611f7bd0
+run_name: traveling-crane-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315345153
+status: 3
+tags: []
+user_id: hanzl

@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/ec84b345bfb44ff389c485787ae2d482/artifacts
+end_time: 1752316268511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec84b345bfb44ff389c485787ae2d482
+run_name: youthful-midge-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316254910
+status: 3
+tags: []
+user_id: hanzl

@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/ce14aa8c5b3c47a3b68f07ea8f54b732/artifacts
+end_time: 1752315336717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce14aa8c5b3c47a3b68f07ea8f54b732
+run_name: fun-yak-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315326765
+status: 3
+tags: []
+user_id: hanzl

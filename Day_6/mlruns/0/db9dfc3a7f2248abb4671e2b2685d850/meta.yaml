@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/0/db9dfc3a7f2248abb4671e2b2685d850/artifacts
+end_time: 1752315733425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9dfc3a7f2248abb4671e2b2685d850
+run_name: spiffy-fawn-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752315723395
+status: 3
+tags: []
+user_id: hanzl
