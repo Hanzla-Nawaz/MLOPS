@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1752501868217
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1752501868217
+metrics: null
+model_id: m-f5652e4bb7894cfb8df9b7e482477ad8
+name: Random forest on breast cancer
+params: null
+run_id: ''
+run_link: ''
+source: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/src/mlruns/694066519297564390/models/m-f5652e4bb7894cfb8df9b7e482477ad8/artifacts
+status: READY
+status_message: null
+storage_location: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/src/mlruns/694066519297564390/models/m-f5652e4bb7894cfb8df9b7e482477ad8/artifacts
+user_id: null
+version: 2

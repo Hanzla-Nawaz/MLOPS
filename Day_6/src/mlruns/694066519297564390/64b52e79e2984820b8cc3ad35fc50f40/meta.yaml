@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/src/mlruns/694066519297564390/64b52e79e2984820b8cc3ad35fc50f40/artifacts
+end_time: 1752499003658
+entry_point_name: ''
+experiment_id: '694066519297564390'
+lifecycle_stage: active
+run_id: 64b52e79e2984820b8cc3ad35fc50f40
+run_name: capricious-wren-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752498975199
+status: 3
+tags: []
+user_id: hanzl

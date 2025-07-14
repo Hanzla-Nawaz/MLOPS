@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/src/mlruns/694066519297564390/2859dc794de0403382822590e93d0ba7/artifacts
+end_time: 1752498964063
+entry_point_name: ''
+experiment_id: '694066519297564390'
+lifecycle_stage: active
+run_id: 2859dc794de0403382822590e93d0ba7
+run_name: sneaky-gnat-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752498931941
+status: 3
+tags: []
+user_id: hanzl

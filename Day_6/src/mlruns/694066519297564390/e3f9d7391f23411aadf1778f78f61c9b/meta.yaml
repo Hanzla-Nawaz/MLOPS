@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/src/mlruns/694066519297564390/e3f9d7391f23411aadf1778f78f61c9b/artifacts
+end_time: 1752498812160
+entry_point_name: ''
+experiment_id: '694066519297564390'
+lifecycle_stage: active
+run_id: e3f9d7391f23411aadf1778f78f61c9b
+run_name: hilarious-doe-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752498780002
+status: 3
+tags: []
+user_id: hanzl

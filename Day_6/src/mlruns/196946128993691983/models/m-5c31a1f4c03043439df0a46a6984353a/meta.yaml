@@ -1,0 +1,10 @@
+artifact_location: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/src/mlruns/196946128993691983/models/m-5c31a1f4c03043439df0a46a6984353a/artifacts
+creation_timestamp: 1752500725609
+experiment_id: '196946128993691983'
+last_updated_timestamp: 1752500740030
+model_id: m-5c31a1f4c03043439df0a46a6984353a
+model_type: null
+name: random_forest
+source_run_id: c041b1e0b09c4051b27bb5dbc5fe416b
+status: 2
+status_message: null
