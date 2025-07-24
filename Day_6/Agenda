@@ -19,5 +19,32 @@ mlflow have great ui for tracking experiments
 good for model registry 
 
 
+diffrence between experiments and runs
+lets have classification preblem
+
+two engineers have two experements in each have multiple runs
+one use RF       param1 [5, 6], param2 [5,3]
+second use NN      param1 [4, 5, 6], param2 [5,3]
 
 
+here are key terms 
+mlflow.set_experements
+mlflow.lof_artifact
+mlflow.set_tags
+mlflow.sklearn.log_model(rf."Random Forest Model")
+ 
+ok now these are running in our local server but i we are working in a team then we will not be able to send this ui link that will 
+not be running in their local host for that we need a server 
+
+now we need a remote server like AWS or DAshhub 
+signin daghub and connect git repo and start remote tracking 
+pip install dagdhun in terminal
+judt need to change 
+import dagshub
+dagshub.init(repo_owner)
+mlflow.set_tracking_uri("https...")
+
+and we do not need to log every step here mlflow.aotolog() will do all
+
+
+another iportant concept how to perform hyper tune 

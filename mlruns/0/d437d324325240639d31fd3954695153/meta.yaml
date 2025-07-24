@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d437d324325240639d31fd3954695153/artifacts
+end_time: 1752321281367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d437d324325240639d31fd3954695153
+run_name: caring-sloth-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752321264955
+status: 3
+tags: []
+user_id: hanzl

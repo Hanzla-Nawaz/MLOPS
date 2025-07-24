@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/643899328151024352/83eaf67cf8664fe986bb7236c5a08082/artifacts
+end_time: 1752499261369
+entry_point_name: ''
+experiment_id: '643899328151024352'
+lifecycle_stage: active
+run_id: 83eaf67cf8664fe986bb7236c5a08082
+run_name: skittish-fly-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752499259325
+status: 4
+tags: []
+user_id: hanzl

@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/341717239528197515/bc351ea99d5d4dee860abcbe14212980/artifacts
+end_time: 1752499179984
+entry_point_name: ''
+experiment_id: '341717239528197515'
+lifecycle_stage: active
+run_id: bc351ea99d5d4dee860abcbe14212980
+run_name: resilient-cat-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752499151014
+status: 3
+tags: []
+user_id: hanzl

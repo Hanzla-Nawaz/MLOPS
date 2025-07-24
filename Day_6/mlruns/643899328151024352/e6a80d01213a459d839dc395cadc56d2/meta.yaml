@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/643899328151024352/e6a80d01213a459d839dc395cadc56d2/artifacts
+end_time: 1752499459794
+entry_point_name: ''
+experiment_id: '643899328151024352'
+lifecycle_stage: active
+run_id: e6a80d01213a459d839dc395cadc56d2
+run_name: delightful-panda-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752499437377
+status: 3
+tags: []
+user_id: hanzl

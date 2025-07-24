@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/181dcd10800f4065ae844a3bc51a0966/artifacts
+end_time: 1752321293337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 181dcd10800f4065ae844a3bc51a0966
+run_name: burly-wasp-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752321293217
+status: 3
+tags: []
+user_id: hanzl

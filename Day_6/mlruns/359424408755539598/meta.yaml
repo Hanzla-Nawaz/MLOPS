@@ -1,0 +1,6 @@
+artifact_location: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/359424408755539598
+creation_time: 1752500036856
+experiment_id: '359424408755539598'
+last_update_time: 1752500036856
+lifecycle_stage: active
+name: breast-cancer-rf-hp-child

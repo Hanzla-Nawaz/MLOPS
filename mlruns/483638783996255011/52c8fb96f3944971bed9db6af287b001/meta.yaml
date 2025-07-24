@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/mlruns/483638783996255011/52c8fb96f3944971bed9db6af287b001/artifacts
+end_time: 1752501061415
+entry_point_name: ''
+experiment_id: '483638783996255011'
+lifecycle_stage: active
+run_id: 52c8fb96f3944971bed9db6af287b001
+run_name: child_run_4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752501061324
+status: 3
+tags: []
+user_id: hanzl

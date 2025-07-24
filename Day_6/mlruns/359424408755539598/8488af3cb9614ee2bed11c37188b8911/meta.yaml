@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/359424408755539598/8488af3cb9614ee2bed11c37188b8911/artifacts
+end_time: 1752500038878
+entry_point_name: ''
+experiment_id: '359424408755539598'
+lifecycle_stage: active
+run_id: 8488af3cb9614ee2bed11c37188b8911
+run_name: rare-ray-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752500038753
+status: 4
+tags: []
+user_id: hanzl

@@ -67,6 +67,82 @@ print(account.get_balance())
 account.set_balance(2000)
 print(account.get_balance())
 
+#Explanation of encapsulation:
+"""Encapsulation is a mechanism that allows us to hide the implementation details of a class from the outside world.
+It is used to protect the data of a class from being accessed or modified by the outside world.
+In the above example, the balance attribute is private and cannot be accessed or modified by the outside world.
+We can only access it using the get_balance and set_balance methods.
+This is how encapsulation is used to protect the data of a class from being accessed or modified by the outside world.      
+"""
+
+#Inheritance
+class SavingsAccount(BankAccount):
+    def __init__(self, balance, interest_rate):
+        super().__init__(balance)
+        self.__interest_rate = interest_rate
+    def get_interest_rate(self):
+        return self.__interest_rate
+    def set_interest_rate(self, interest_rate):
+        self.__interest_rate = interest_rate
+
+savings_account = SavingsAccount(1000, 0.05)
+print(savings_account.get_balance())
+print(savings_account.get_interest_rate())
+
+#Explanation of inheritance:
+"""Inheritance is a mechanism that allows a class to inherit the attributes and methods of another class.
+The class that inherits the attributes and methods is called the child class, and the class that is inherited from is called the parent class.
+The child class can access the attributes and methods of the parent class.
+In the above example, the SavingsAccount class inherits the attributes and methods of the BankAccount class.
+The SavingsAccount class can access the attributes and methods of the BankAccount class.
+"""
+
+
+#polymorphism
+class Animal:
+    def make_sound(self):
+        print("Animal makes a sound")
+class Dog(Animal):
+    def make_sound(self):
+        print("Dog barks")
+class Cat(Animal):
+    def make_sound(self):
+        print("Cat meows")
+dog = Dog()
+cat = Cat()
+dog.make_sound()
+cat.make_sound()
+
+#Explanation of polymorphism:
+"""Polymorphism is a mechanism that allows us to use the same interface to work with different data types.
+In the above example, the make_sound method is used to make the sound of the animal.
+The Dog and Cat classes inherit the make_sound method from the Animal class.
+The Dog and Cat classes can make the sound of the animal.
+"""
+
+
+#Abstraction
+class Animal:
+    def make_sound(self):
+        print("Animal makes a sound")
+class Dog(Animal):
+    def make_sound(self):
+        print("Dog barks")
+class Cat(Animal):
+    def make_sound(self):
+        print("Cat meows")
+dog = Dog()
+cat = Cat()
+dog.make_sound()
+cat.make_sound()
+
+#Explanation of abstraction:
+"""Abstraction is a mechanism that allows us to hide the implementation details of a class from the outside world.
+It is used to protect the data of a class from being accessed or modified by the outside world.
+In the above example, the make_sound method is used to make the sound of the animal.
+The Dog and Cat classes inherit the make_sound method from the Animal class.
+The Dog and Cat classes can make the sound of the animal.
+"""
 
 
 

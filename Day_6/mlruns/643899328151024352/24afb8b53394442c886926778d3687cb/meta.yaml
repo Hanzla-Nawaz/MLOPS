@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/643899328151024352/24afb8b53394442c886926778d3687cb/artifacts
+end_time: 1752499397910
+entry_point_name: ''
+experiment_id: '643899328151024352'
+lifecycle_stage: active
+run_id: 24afb8b53394442c886926778d3687cb
+run_name: popular-cod-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752499375604
+status: 3
+tags: []
+user_id: hanzl

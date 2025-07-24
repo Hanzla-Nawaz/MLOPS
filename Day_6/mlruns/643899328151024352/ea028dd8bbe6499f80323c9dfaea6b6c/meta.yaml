@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/643899328151024352/ea028dd8bbe6499f80323c9dfaea6b6c/artifacts
+end_time: 1752500085680
+entry_point_name: ''
+experiment_id: '643899328151024352'
+lifecycle_stage: active
+run_id: ea028dd8bbe6499f80323c9dfaea6b6c
+run_name: smiling-dog-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752500085626
+status: 4
+tags: []
+user_id: hanzl

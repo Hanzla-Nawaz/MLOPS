@@ -1,0 +1,14 @@
+artifact_uri: file:///M:/working_25/Practical/Practical/MLOPS/Day_6/mlruns/336518234799027643/fa4843f301d247d99b68e35eb0e6ad17/artifacts
+end_time: 1752500258945
+entry_point_name: ''
+experiment_id: '336518234799027643'
+lifecycle_stage: active
+run_id: fa4843f301d247d99b68e35eb0e6ad17
+run_name: inquisitive-lamb-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752500250613
+status: 4
+tags: []
+user_id: hanzl

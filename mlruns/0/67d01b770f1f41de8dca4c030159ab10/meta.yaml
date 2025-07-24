@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/67d01b770f1f41de8dca4c030159ab10/artifacts
+end_time: 1752321264892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67d01b770f1f41de8dca4c030159ab10
+run_name: clean-colt-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752321239263
+status: 3
+tags: []
+user_id: hanzl
