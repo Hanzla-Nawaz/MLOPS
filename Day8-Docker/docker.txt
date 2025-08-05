@@ -1,0 +1,29 @@
+when we build an app or project the we have requirements.txt andother dependencies 
+that will be compatible
+e.g sklearn version will be with spacific version of fastapi
+so for that we have this container in which we will add all code plus all dependencies and send to QA 
+and dev team 
+Now whe have why of docker 
+help developer build package and deploy 
+docker container is running image, stop container called image 
+
+
+the server of production might have 1000 gb ram so server have multiple app deployed on it
+so apps deployed using docker because for isolation so app will not affect each other 
+VMs: if dev team using mac but build in windows so we need virtual machine that will be tidious task 
+
+docker: to avoid this we need docker 
+it's lightweight, takes seconds to migrate 
+
+
+content in docker file 
+key componenets 
+FROM: Specifies the base image 
+COPY or ADD: Adds files from your host systems into the image
+RUN: execute commands in the image such as intalling software
+CMD or ENtrypoint: defines the commamd that runs when the container starts 
+Expose: Specifies the port the container will listen on
+
+
+
+ 
